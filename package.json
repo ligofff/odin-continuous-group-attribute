@@ -1,0 +1,27 @@
+{
+  "name": "com.ligofff.odin-continuous-group-attribute",
+  "displayName": "Ligofff - Odin Continuous Group Attribute",
+  "version": "0.1.0",
+  "unity": "2021.3.11f1",
+  "description": "Adds attribute, that adds all fields after selected field in selected group",
+  "keywords": [
+    "unity",
+	"unity3d",
+	"upm",
+    "ligofff",
+    "utility"
+  ],
+  "homepage": "https://github.com/ligofff/odin-continuous-group-attribute.git",
+  "bugs": {
+    "url": "https://github.com/ligofff/odin-continuous-group-attribute/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ligofff/odin-continuous-group-attribute.git"
+  },
+  "license": "MIT",
+  "author": "Ligofff (https://ligofff.com)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

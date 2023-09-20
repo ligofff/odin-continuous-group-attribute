@@ -6,10 +6,17 @@ Adds attribute, that adds all fields after selected field in selected group
 
 ## Overview
 
-*To be filled*
+Now you don't need to put each field into a group separately, and you can simply mark up the groups like this:
+
+<p align="center">
+  <img width="600" src="https://github.com/ligofff/odin-continuous-group-attribute/assets/44195161/dc69fa1d-4ec7-49b6-87f8-2ae603114641">
+</p>
+
+Box group, TabGroup, FoldoutGroup, TitleGroup, HorizontalGroup and VerticalGroup are supported.
 
 ## Minimum Requirements
 * Unity 2021 and above
+* [Odin Inspector](https://odininspector.com/)
 
 ### Install via GIT URL
 
@@ -19,7 +26,7 @@ You will need to have Git installed and available in your system's PATH.
 
 ## Usage
 
-*To be filled*
+Just ```ContinuousGroupAttribute``` on your top field, and all fields from this, to next field with ```ContinuousGroup``` or ```ContinuousGroupEnd``` attribute will be in your selected group.
 
 ## License
 

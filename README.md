@@ -26,7 +26,7 @@ You will need to have Git installed and available in your system's PATH.
 
 ## Usage
 
-Just ```ContinuousGroupAttribute``` on your top field, and all fields from this, to next field with ```ContinuousGroup``` or ```ContinuousGroupEnd``` attribute will be in your selected group.
+Just add ```ContinuousGroup``` attribute on your top field, and all fields from this, to next field with ```ContinuousGroup``` or ```ContinuousGroupEnd``` attribute will be in your selected group.
 
 ## License
 
